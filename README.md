@@ -10,7 +10,6 @@
 ### 저에 대해
 
 Node.js와 React로 백엔드와 프론트엔드를 개발해요. 앱·관리자·판매자 서비스처럼 서로 연결된 화면과 데이터를 다루고, 실제 사용 과정에서 생기는 문제를 고치는 일을 해요.
-
 C#으로 Windows 프로그램과 게임 유틸리티를 만들기도 했어요. 필요한 기능을 직접 구현하거나 반복되는 작업을 자동화하는 걸 좋아해요. 요즘은 AI 코딩 도구와 로컬 LLM을 활용하는 방법을 실험하고 있어요.
 
 ### 다뤄온 기술과 도구
@@ -104,7 +103,6 @@ Git · Visual Studio Code · Visual Studio · Windows · Hyper-V
 <td width="50%" valign="top">
 <h4>게임과 음악</h4>
 <p>Garry’s Mod처럼 직접 손댈 수 있는 게임, 음악과 움직임이 어우러지는 리듬게임에 관심이 있어요.</p>
-<p>Just Shapes &amp; Beats의 연출과 Bossfight의 Milky Ways처럼 게임과 잘 어울리는 음악이 좋아요.</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +113,7 @@ Git · Visual Studio Code · Visual Studio · Windows · Hyper-V
 </td>
 <td valign="top">
 <h4>캐릭터와 작은 디테일</h4>
-<p>귀여운 동물형 캐릭터를 좋아해요. DogDay와 CatNap, 오버워치의 키리코처럼 인상적인 디자인에 관심이 있어요.</p>
+<p>귀여운 동물형 캐릭터를 좋아해요.</p>
 <p>표정이나 포즈, 옷과 소품처럼 캐릭터의 성격이 드러나는 디테일을 보는 재미가 있어요.</p>
 </td>
 </tr>
