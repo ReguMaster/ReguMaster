@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./profile-assets/banner.png" width="100%" alt="별빛 아래의 작업 공간, 고양이와 드라이브 — ReguMaster" />
-</p>
-
 <h2 align="center">Hi there 👋</h2>
 <p align="center">웹 서비스를 개발하고, 취미로 게임과 작은 도구를 만들어요.<br />코딩, 자동차, 게임, 그리고 귀여운 것들을 좋아해요.</p>
 
